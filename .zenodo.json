@@ -1,0 +1,136 @@
+{
+    "creators": [
+        {
+            "name": "Olson, D. M."
+        },
+        {
+            "name": "Dinerstein, E."
+        },
+        {
+            "name": "Wikramanayake, E. D."
+        },
+        {
+            "name": "Burgess, N. D."
+        },
+        {
+            "name": "Powell, G. V. N."
+        },
+        {
+            "name": "Underwood, E. C."
+        },
+        {
+            "name": "D'Amico, J. A."
+        },
+        {
+            "name": "Itoua, I."
+        },
+        {
+            "name": "Strand, H. E."
+        },
+        {
+            "name": "Morrison, J. C."
+        },
+        {
+            "name": "Loucks, C. J."
+        },
+        {
+            "name": "Allnutt, T. F."
+        },
+        {
+            "name": "Ricketts, T. H."
+        },
+        {
+            "name": "Kura, Y."
+        },
+        {
+            "name": "Lamoreux, J. F."
+        },
+        {
+            "name": "Wettengel, W. W."
+        },
+        {
+            "name": "Hedao, P."
+        },
+        {
+            "name": "Kassem, K. R."
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Kathryn R. Kirby",
+            "type": "Editor"
+        },
+        {
+            "name": "Russell D. Gray",
+            "type": "Editor"
+        },
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Editor"
+        },
+        {
+            "name": "Fiona M. Jordan",
+            "type": "Editor"
+        },
+        {
+            "name": "Stephanie Gomes-Ng",
+            "type": "Editor"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko",
+            "type": "Editor"
+        },
+        {
+            "name": "Dami\u00e1n E. Blasi",
+            "type": "Editor"
+        },
+        {
+            "name": "Carlos A. Botero",
+            "type": "Editor"
+        },
+        {
+            "name": "Claire Bowern",
+            "type": "Editor"
+        },
+        {
+            "name": "Carol R. Ember",
+            "type": "Editor"
+        },
+        {
+            "name": "Dan Leehr",
+            "type": "Editor"
+        },
+        {
+            "name": "Bobbi S. Low",
+            "type": "Editor"
+        },
+        {
+            "name": "Joe McCarter",
+            "type": "Editor"
+        },
+        {
+            "name": "William Divale",
+            "type": "Editor"
+        },
+        {
+            "name": "Michael C. Gavin",
+            "type": "Editor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "dplace"
+        }
+    ],
+    "title": "D-PLACE dataset derived from Olson et al. 2001 'Terrestrial Ecoregions of the World'",
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Olson, D. M., Dinerstein, E., Wikramanayake, E. D., Burgess, N. D., Powell, G. V. N., Underwood, E. C., D&#x27;Amico, J. A., Itoua, I., Strand, H. E., Morrison, J. C., Loucks, C. J., Allnutt, T. F., Ricketts, T. H., Kura, Y., Lamoreux, J. F., Wettengel, W. W., Hedao, P., Kassem, K. R. 2001. Terrestrial ecoregions of the world: a new map of life on Earth. Bioscience 51(11):933-938.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}
